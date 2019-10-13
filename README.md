@@ -1,25 +1,16 @@
 ## Andy Jones
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+A motivated self-starter with a passion for technology. Having taught myself to code and build websites I decided to pursue my passion and become a full time Software Developer. I'm an enthusiastic learner and always looking to improve and add new skills. I am passionate about building elegant solutions to real problems.
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+#### Problem Solver
 
-#### This Skill
+Able to get to the route cause of an issue and work through solutions to reach resolution.
 
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- Being selected to be part of the opening team at Enjoy UK we were faced with many challenges opening up a whole new market and country operation. 
+- I helped achieve a successful launch by breaking these challenges down into small components and iterating through solutions. Taking standard operating procedures and refining them allowed us to open lean while still achieving our targets. 
+- Enjoy UK now operates in 10 U.K cities and continuously growing.
 
 ## Education
 
@@ -32,12 +23,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Thames Valley University (2006 to 2009)
 
-- Popular Music Performance
-- 2:1
+- 2:1 Popular Music Performance
 
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
 
 ## Experience
 
