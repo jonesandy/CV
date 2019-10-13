@@ -1,4 +1,4 @@
-## Your Name
+## Andy Jones
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
 
@@ -23,18 +23,17 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (October 2019 to January 2020)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Thames Valley University (2006 to 2009)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Popular Music Performance
+- 2:1
 
 #### Any other qualifications
 
@@ -42,14 +41,22 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-- Any experience relevent to software development
+**Enjoy Technology LTD** (March 2018 to October 2019)    
+*Fulfilment Expert*  
+- Founding member of the Fulfilment team in the U.K. My role was to translate the Fulfilment model operating in the U.S.A to work with the U.K market.  
+- Subject matter expert and process maker for U.K Standard Operating Procedures.  
+- Member of the User Acceptance Testing for new build of Oracle ERP system designed for Enjoy U.K.
+- Training Fulfilment Experts as they joined the company.
 
-**Company Name** (start_date to end_date)   
-*Your job title*  
-- Any experience relevent to software development
+**Apple Retail** (December 2010 to March 2018)   
+*Operations Specialist*  
+- Responsible for maintaining inventory accuracy 
+- Investigate and resolve inventory discrepancies and internal theft. 
+- Frequent use of Excel, Filemaker for database creation and management.
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+* Music. I play guitar and have performed with many bands around the U.K. 
+* I love to go to the gym and keep fit. 
+* I love to build guitar FX pedals from scratch. This includes designing and building the enclosures from scratch as well as the circuit boards. 
+* I am a keen Formula One fan and love all things sports car related. 
