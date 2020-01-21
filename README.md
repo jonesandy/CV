@@ -1,13 +1,15 @@
+<img src="_imgs/logo.png" height="100px"  align="left" />
 
-<h1 align="center" style="font-size:40px"><img src="_imgs/logo.png" height="50px"  align="left" /> Andy Jones <a href="https://www.linkedin.com/in/andyjonesdev/" target="_blank"><img src="_imgs/LI-In-Bug.png" height="50px" align="right" /></a></h1>
-
-
-
+<h1 style="font-size: 50px; font-family:Palatino" align="center">ANDY JONES</h1>
 
 
 ----
 
 A motivated self-starter with a passion for technology. Having taught myself to code and build websites I decided to pursue my passion and become a full time Software Developer. I'm an enthusiastic learner and always looking to improve and add new skills. I am passionate about building elegant solutions to real problems.
+
+
+<a href="https://www.linkedin.com/in/andyjonesdev/" target="_blank"><img src="_imgs/LI-In-Bug.png" height="50px" align="right" /></a>
+
 
 ## Skills
 
