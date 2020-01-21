@@ -1,6 +1,6 @@
-<img src="_imgs/logo.png" height="100px"  align="left" />
+<img src="_imgs/logo.png" height="75px"  align="left" />
 
-<h1 align="center">Andy Jones</h1>
+<h1 align="left" font-size="50px">Andy Jones</h1>
 
 ----
 
