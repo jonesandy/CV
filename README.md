@@ -2,13 +2,15 @@
 
 <h1 style="font-size: 40px;" align="left">ANDY JONES</h1>
 
+<a href="https://www.linkedin.com/in/andyjonesdev/" target="_blank" >![](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)</a>
+<a href="https://sourcerer.io/jonesandy"><img src="https://img.shields.io/badge/JavaScript-145%20commits-yellow.svg" alt=""></a>
+<a href="https://sourcerer.io/jonesandy"><img src="https://img.shields.io/badge/Ruby-329%20commits-red.svg" alt=""></a>
+<a href="https://sourcerer.io/jonesandy"><img src="https://img.shields.io/badge/CSS-204%20commits-green.svg" alt=""></a>
+<a href="https://sourcerer.io/jonesandy"><img src="https://img.shields.io/badge/SQL-41%20commits-blue.svg" alt=""></a>
 
 ----
 
 A motivated self-starter with a passion for technology. Having taught myself to code and build websites I decided to pursue my passion and become a full time Software Developer. I'm an enthusiastic learner and always looking to improve and add new skills. I am passionate about building elegant solutions to real problems.
-
-
-<a href="https://www.linkedin.com/in/andyjonesdev/" target="_blank"><img src="_imgs/LI-In-Bug.png" height="50px" align="right" /></a>
 
 
 ## Skills
