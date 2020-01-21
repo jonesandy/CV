@@ -1,6 +1,7 @@
-<img src="_imgs/logo.png" height="75px"  align="left" /><a href="https://www.linkedin.com/in/andyjonesdev/" target="_blank"><img src="_imgs/LI-In-Bug.png" height="50px" align="right" /></a>
+<img src="_imgs/logo.png" height="100px"  align="left" />
+<a href="https://www.linkedin.com/in/andyjonesdev/" target="_blank"><img src="_imgs/LI-In-Bug.png" height="75px" align="right" /></a>
 
-<h1 align="left" font-size="50px">Andy Jones</h1>
+<h1 align="center" style="font-size:40px">Andy Jones</h1>
 
 
 
