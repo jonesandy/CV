@@ -1,4 +1,5 @@
-<img src="_imgs/logo.png" height="100px  align="left" />
+<img src="_imgs/logo.png" height="100px"  align="left" />
+
 <h1 align="center">Andy Jones</h1>
 
 ----
