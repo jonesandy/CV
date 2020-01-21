@@ -6,6 +6,7 @@
 <a href="https://sourcerer.io/jonesandy"><img src="https://img.shields.io/badge/JavaScript-145%20commits-yellow.svg" alt=""></a>
 <a href="https://sourcerer.io/jonesandy"><img src="https://img.shields.io/badge/Ruby-329%20commits-red.svg" alt=""></a>
 <a href="https://sourcerer.io/jonesandy"><img src="https://img.shields.io/badge/CSS-204%20commits-green.svg" alt=""></a>
+<a href="https://sourcerer.io/jonesandy"><img src="https://img.shields.io/badge/HTML-171%20commits-blueviolet.svg" alt=""></a>
 <a href="https://sourcerer.io/jonesandy"><img src="https://img.shields.io/badge/SQL-41%20commits-blue.svg" alt=""></a>
 
 ----
