@@ -23,7 +23,7 @@
 
 ## Hello
 
-A motivated self-starter with a passion for technology. Having taught myself to code and build websites I decided to pursue my passion and become a full stack developer. I'm an enthusiastic learner and always looking to improve and add new skills. A natural team leader with a history of delivering successful projects, I am passionate about building elegant solutions to real problems.
+A motivated self-starter with a passion for technology and an eye for design. Having taught myself to code and build websites I decided to pursue my passion and become a full stack developer. I'm an enthusiastic learner and always looking to improve and add new skills. A natural team leader with a history of delivering successful projects, I am passionate about building elegant solutions to real problems.
 
 Having spend over ten years in retail operations and fulfilment I have a wealth of experience in project management and project delivery. I was fortunate to be a part of the launch team for [Enjoy Technology](https://www.enjoy.com/en-uk/) in the UK. Working in a fast-paced startup environment, I gained great stakeholder management and communication skills while defining and evolving standard operating procedures.
 
@@ -33,7 +33,8 @@ Software development is the perfect combination of my technology and creative pa
 
 PROJECT | SUMMARY | TECHNOLOGIES & LANGUAGES|
 ------- | ------- | ------------ | 
-[Project GreenPrint](https://github.com/jonesandy/Project_Greenprint_Frontend) | A travel app for the environmentally conscious. Simply enter origin and destination locations in the search function and receive available routes for transit, car, cycle, walking and flight along with their carbon emissions. Sign up for additional features such as being able to save journeys and view them in your personalised dashboard! Final project at Makers Academy. We built a [frontend](https://github.com/jonesandy/Project_Greenprint_Frontend) app and a [backend](https://github.com/jonesandy/Project_Greenprint_Backend) API that communicated with each other. | JavaScript, Node JS, Express JS, MongoDB, React JS, Jest, Cypress, Mocha, Chai, Postman |
+[Project GreenPrint frontend](https://github.com/jonesandy/Project_Greenprint_Frontend) | A travel app for the environmentally conscious. Simply enter origin and destination locations in the search function and receive available routes for transit, car, cycle, walking and flight along with their carbon emissions. Sign up for additional features such as being able to save journeys and view them in your personalised dashboard! Final project at Makers Academy. | JavaScript, Node JS, React JS, Jest, Cypress|
+[Project GreenPrint backend](https://github.com/jonesandy/Project_Greenprint_Backend) | Backend app that processes the journey request from our frontend app. Calculates journey and carbon data via external API calls. Returns processed data back into the front end. User profiles saved to a MongoDB instance. Final project at Makers Academy. | JavaScript, Node JS, Express JS, MongoDB, Mocha, Chai|
 [MakersBnB](https://github.com/jonesandy/makersbnb) | An AirBnB clone that allows users to register and list spaces to rent. Built while on the Makers Academy course. | Ruby, Sinatra, PostgreSQL, RSpec, Capybara |
 [ShortCutClub](https://github.com/jonesandy/shortcutclub) | A static website built as a marketing tool for a production company. Used as their business online presence. | HTML, CSS, JavaScript |
 
