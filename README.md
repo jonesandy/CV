@@ -1,4 +1,7 @@
-## Andy Jones
+<img src="./_imgs/logo.png" height="100px  align="left" />
+<h1 align="center">Andy Jones</h1>
+
+----
 
 A motivated self-starter with a passion for technology. Having taught myself to code and build websites I decided to pursue my passion and become a full time Software Developer. I'm an enthusiastic learner and always looking to improve and add new skills. I am passionate about building elegant solutions to real problems.
 
