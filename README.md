@@ -1,6 +1,6 @@
 <img src="_imgs/logo.png" height="100px"  align="left" />
 
-<h1 style="font-size: 50px; font-family:Times New Roman" align="center">ANDY JONES</h1>
+<h1 style="font-size: 40px;" align="left">ANDY JONES</h1>
 
 
 ----
