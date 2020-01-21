@@ -2,6 +2,8 @@
 
 <h1 align="left" font-size="50px">Andy Jones</h1>
 
+<a href="https://www.linkedin.com/in/andyjonesdev/" target="_blank"><img src="_imgs/LI-In-Bug.png" height="50px" align="right" /></a>
+
 ----
 
 A motivated self-starter with a passion for technology. Having taught myself to code and build websites I decided to pursue my passion and become a full time Software Developer. I'm an enthusiastic learner and always looking to improve and add new skills. I am passionate about building elegant solutions to real problems.
