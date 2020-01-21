@@ -12,7 +12,8 @@
 
 <div align="center">
   
-[Me](#hello) //  
+[Me](#hello) // 
+[Projects](#projects) // 
 [Skills](#skills) // 
 [Education ](#education) // 
   
@@ -28,6 +29,13 @@ Having spend over ten years in retail operations and fulfilment I have a welth o
 
 Software development is the perfect combination of my technology and creative passion, having previously studied both Audio Engineering and Music performance. Being able to produce creative products from a technical code base is extremely exciting and you are limited only by your imagination.
 
+## Projects
+
+PROJECT | SUMMARY | TECHNOLOGIES & LANGUAGES|
+------- | ------- | ------------ | 
+[Project GreenPrint](https://github.com/jonesandy/Project_Greenprint_Frontend) | A travel app for the environmentally conscious. Simply enter origin and destination locations in the search function and receive available routes for transit, car, cycle, walking and flight along with their carbon emissions. Sign up for additional features such as being able to save journeys and view them in your personalised dashboard! Final project at Makers Academy. We built a [frontend](https://github.com/jonesandy/Project_Greenprint_Frontend) app and a [backend](https://github.com/jonesandy/Project_Greenprint_Backend) API that communicated with each other. | JavaScript, Node JS, Express JS, MongoDB, React JS, Jest, Cypress, Mocha, Chai, Postman |
+[MakersBnB](https://github.com/jonesandy/makersbnb) | An AirBnB clone that allows users to register and list spaces to rent. Built while on the Makers Academy course. | Ruby, Sinatra, PostgreSQL, RSpec, Capybara |
+[ShortCutClub](https://github.com/jonesandy/shortcutclub) | A static website built as a marketing tool for a production company. Used as their business online presence. | HTML, CSS, JavaScript |
 
 ## Skills
 
