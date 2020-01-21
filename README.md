@@ -15,7 +15,8 @@
 [Me](#hello) // 
 [Projects](#projects) // 
 [Skills](#skills) // 
-[Education ](#education) // 
+[Education](#education) //
+[Hobbies](#hobbies) // 
   
 </div>
 
@@ -49,17 +50,24 @@ Able to get to the route cause of an issue and work through solutions to reach r
 - Enjoy UK now operates in 10 U.K cities and continuously growing.
 
 ## Education
-
+<img src="_imgs/makersacademylogo.png" height="50px" alt="" align="left">
+<br />
+         
 #### Makers Academy (October 2019 to January 2020)
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+* OOP, TDD, MVC, BDD   
+* Agile/XP
+* Ruby, Rails, Sinatra, JavaScript, Node JS
+* RSpec, Jasmine, Jest, Capybara
+* PostgreSQL
+
+<img src="_imgs/tvu.png" height="50px" alt="" align="left">
+<br />
 
 #### Thames Valley University (2006 to 2009)
 
-- 2:1 Popular Music Performance
+* BMus Popular Music Performance
+    * 2:1 Classification
 
 
 ## Experience
@@ -79,7 +87,7 @@ Able to get to the route cause of an issue and work through solutions to reach r
 
 ## Hobbies
 
-* Music. I play guitar and have performed with many bands around the U.K. 
-* I love to go to the gym and keep fit. 
-* I love to build guitar FX pedals from scratch. This includes designing and building the enclosures from scratch as well as the circuit boards. 
-* I am a keen Formula One fan and love all things sports car related. 
+* Music. I play guitar and have performed with many bands around the U.K. :guitar:
+* I love to go to the gym and keep fit. :muscle:
+* I love to build guitar FX pedals from scratch. This includes designing and building the enclosures from scratch as well as the circuit boards. :battery:
+* I am a keen Formula One fan and love all things sports car related. :red_car:
