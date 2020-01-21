@@ -25,9 +25,9 @@
 
 A motivated self-starter with a passion for technology. Having taught myself to code and build websites I decided to pursue my passion and become a full stack developer. I'm an enthusiastic learner and always looking to improve and add new skills. A natural team leader with a history of delivering successful projects, I am passionate about building elegant solutions to real problems.
 
-Having spend over ten years in retail operations and fulfilment I have a welth of experience in project management and project delivery. I was fortunate to be a part of the launch team for [Enjoy Technology](https://www.enjoy.com/en-uk/) in the UK. Working in a fast-paced startup environment, I gained great stakeholder management and communication skills while defining and evolving standard operating procedures.
+Having spend over ten years in retail operations and fulfilment I have a wealth of experience in project management and project delivery. I was fortunate to be a part of the launch team for [Enjoy Technology](https://www.enjoy.com/en-uk/) in the UK. Working in a fast-paced startup environment, I gained great stakeholder management and communication skills while defining and evolving standard operating procedures.
 
-Software development is the perfect combination of my technology and creative passion, having previously studied both Audio Engineering and Music performance. Being able to produce creative products from a technical code base is extremely exciting and you are limited only by your imagination.
+Software development is the perfect combination of my technology and creative passion, having previously studied both Audio Engineering and Music performance. Being able to produce creative products from a technical codebase is extremely exciting and you are limited only by your imagination.
 
 ## Projects
 
