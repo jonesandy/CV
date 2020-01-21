@@ -10,7 +10,23 @@
 
 ----
 
-A motivated self-starter with a passion for technology. Having taught myself to code and build websites I decided to pursue my passion and become a full time Software Developer. I'm an enthusiastic learner and always looking to improve and add new skills. I am passionate about building elegant solutions to real problems.
+<div align="center">
+  
+[Me](#hello) | 
+[Skills](#skills) | 
+[Education ](#education) | 
+  
+</div>
+
+----
+
+## Hello
+
+A motivated self-starter with a passion for technology. Having taught myself to code and build websites I decided to pursue my passion and become a full stack developer. I'm an enthusiastic learner and always looking to improve and add new skills. A natural team leader with a history of delivering successful projects, I am passionate about building elegant solutions to real problems.
+
+Having spend over ten years in retail operations and logistics
+
+Software development is the perfect combination of my technology and creative passion, having previously studied both Audio Engineering and Music performance. Being able to produce creative products from a technical code base is extremely exciting and you are limited only by your imagination.
 
 
 ## Skills
