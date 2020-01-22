@@ -35,9 +35,9 @@ Software development is the perfect combination of my technology and creative pa
 
 PROJECT | SUMMARY | TECHNOLOGIES & LANGUAGES|
 ------- | ------- | ------------ | 
-[Project GreenPrint frontend](https://github.com/jonesandy/Project_Greenprint_Frontend) | A travel app for the environmentally conscious. Simply enter origin and destination locations in the search function and receive available routes for transit, car, cycle, walking and flight along with their carbon emissions. Sign up for additional features such as being able to save journeys and view them in your personalised dashboard! Final project at Makers Academy. | JavaScript, Node JS, React JS, Jest, Cypress|
-[Project GreenPrint backend](https://github.com/jonesandy/Project_Greenprint_Backend) | Backend app that processes the journey request from our frontend app. Calculates journey and carbon data via external API calls. Returns processed data back into the front end. User profiles saved to a MongoDB instance. Final project at Makers Academy. | JavaScript, Node JS, Express JS, MongoDB, Mocha, Chai|
+[Project GreenPrint frontend](https://github.com/jonesandy/Project_Greenprint_Frontend) | A travel app for the environmentally conscious. Simply enter origin and destination locations in the search function and receive available routes for transit, car, cycle, walking and flight along with their carbon emissions. Sign up for additional features such as being able to save journeys and view them in your personalised dashboard! We built two seperate apps, one frontend client app and a [backend](https://github.com/jonesandy/Project_Greenprint_Backend) API. Final project at Makers Academy. | JavaScript, Node JS, React JS, Jest, Cypress, Express JS, MongoDB, Mocha, Chai|
 [MakersBnB](https://github.com/jonesandy/makersbnb) | An AirBnB clone that allows users to register and list spaces to rent. Built while on the Makers Academy course. | Ruby, Sinatra, PostgreSQL, RSpec, Capybara |
+[Chitter](https://github.com/jonesandy/chitter-challenge) | A twitter clone application that allows users to post messages to a timeline. | Ruby, Sinatra, PostgreSQL, RSpec |
 [ShortCutClub](https://github.com/jonesandy/shortcutclub) | A static website built as a marketing tool for a production company. Used as their business online presence. | HTML, CSS, JavaScript |
 
 ## Skills
