@@ -3,10 +3,10 @@
 <h1 style="font-size: 40px;" align="left">ANDY JONES</h1>
 
 <a href="https://www.linkedin.com/in/andyjonesdev/" target="_blank" >![](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)</a>
-<a href="https://sourcerer.io/jonesandy"><img src="https://img.shields.io/badge/JavaScript-145%20commits-yellow.svg" alt=""></a>
+<a href="https://sourcerer.io/jonesandy"><img src="https://img.shields.io/badge/JavaScript-154%20commits-yellow.svg" alt=""></a>
 <a href="https://sourcerer.io/jonesandy"><img src="https://img.shields.io/badge/Ruby-329%20commits-red.svg" alt=""></a>
-<a href="https://sourcerer.io/jonesandy"><img src="https://img.shields.io/badge/CSS-204%20commits-green.svg" alt=""></a>
-<a href="https://sourcerer.io/jonesandy"><img src="https://img.shields.io/badge/HTML-171%20commits-blueviolet.svg" alt=""></a>
+<a href="https://sourcerer.io/jonesandy"><img src="https://img.shields.io/badge/CSS-213%20commits-green.svg" alt=""></a>
+<a href="https://sourcerer.io/jonesandy"><img src="https://img.shields.io/badge/HTML-HTML-174%20commits-blueviolet.svg" alt=""></a>
 <a href="https://sourcerer.io/jonesandy"><img src="https://img.shields.io/badge/SQL-41%20commits-blue.svg" alt=""></a>
 
 ----
